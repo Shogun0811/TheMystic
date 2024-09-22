@@ -55,13 +55,13 @@ global.owner = [
 ];
 
 global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.prems = ['221760263631'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
+global.packname = '𝐁𝐢𝐜𝐨𝐦𝐚𝐫𝐮•𝐒𝐡𝐨𝐠𝐮𝐧𝐚ī ';
+global.author = 'イバラヒマ';
 global.wm = 'The Mystic - Bot';
 global.titulowm = 'The Mystic - Bot';
 global.titulowm2 = `The Mystic - Bot`
